@@ -1,2 +1,2 @@
 # md5db
-create md5 data base with the solution
+Creates databases of md5 hashes with the solution
