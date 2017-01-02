@@ -1,7 +1,7 @@
 import itertools
 import hashlib
 
-c='qazwsxedcrfvtgbyhnujmikolp'
+c='qaz'
 fo = open("crackmd5.txt", "wb")
 for i in range(1,16):      
       print i;
